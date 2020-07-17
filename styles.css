@@ -25,6 +25,11 @@ p {
     font-family: 'Sora', sans-serif;
 }
 
+.counter {
+    font-family: 'Sora', sans-serif;
+    text-align: right;
+}
+    
 .results {
     margin: 10px;
     padding: 10px;
